@@ -10,6 +10,3 @@
 * Le nom des villes/villages.
 * Le nom des monstres.
 * Le nom des équipements
-
-## Paramètre du Github 
-* Le git est en version push / request avec validation du master pour éviter les trolls. Si des gens sérieux rejoigne le projet, il passera en validation admin.
