@@ -1,6 +1,7 @@
 # Traduction Bless Online FR 
 
 * Github communautaire afin de traduire le jeu Bless Online en français simplifié. 
+* Pour une grande facilité à traduire, n'hésitez pas à télécharger PoEdit : https://poedit.net/
 * Si vous avez des questions, n'hésitez pas à venir sur le discord de Bless FR ! https://discord.gg/32vHsfT
 
 ## Ce qu'il ne faut pas traduire :
