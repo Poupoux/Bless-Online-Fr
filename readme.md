@@ -14,7 +14,7 @@ Il y a 3 branchs sur le github :
 ## Générales
 * Pas de private joke.
 * Pas de sms.
-* Respecter l'esprit du texte.
+* Respectez l'esprit du texte.
 * Pas de faux-sens. *(prendre un mot pour un autre)*
 * Pas de barbarisme. *(écrire un mot qui n'existe pas dans la langue)*
 * Pas de solécisme. *(construire une syntaxe qui n'existe pas dans la langue)*
