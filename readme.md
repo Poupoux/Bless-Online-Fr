@@ -1,16 +1,15 @@
-# Traduction Bless Online FR 
+# Avant-Propos
 
 * Github communautaire afin de traduire le jeu Bless Online en français simplifié. 
 * Pour vous aider à traduire, n'hésitez pas à télécharger PoEdit : https://poedit.net/
 * Si vous avez des questions, venez sur le discord de Bless FR ! https://discord.gg/32vHsfT
 
-## Les branches :
+## Description :
 
 Il y a 3 branchs sur le github : 
 * Master.
-* Traduction Anglo-français. (semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen. 
-* Traduction française. (traduction entièrement française) 
-
+* Anglo-Français. (semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen. 
+* Français. (traduction entièrement française) 
 
 # Les Règles 
 
@@ -39,5 +38,7 @@ Il y a 3 branchs sur le github :
 * Le nom des statistiques.
 
 ## Français:
+
+### Respectez les règles générales.
 
 
