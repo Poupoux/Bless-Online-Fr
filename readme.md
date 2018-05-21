@@ -6,8 +6,8 @@
 ## Description
 Il y a 3 branchs sur le github : 
 * Master.
-* Anglo-Français. (semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen. 
-* Français. (traduction entièrement française) 
+* Anglo-Français. *(semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen)*
+* Français. *(traduction entièrement française)* 
 
 # Les Règles 
 
