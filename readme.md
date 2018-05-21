@@ -6,19 +6,19 @@
 ## Description
 Il y a 3 branchs sur le github : 
 * Master.
-* Anglo-Français. (semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen. 
-* Français. (traduction entièrement française) 
+* Anglo-Français. *(semi traduction afin de garder les noms propres des équipements, régions, villes, monstres & compétence en anglais dans le but de se faire comprendre en raison d'un serveur Européen)* 
+* Français. *(traduction entièrement française)* 
 
 # Les Règles 
 
 ## Générales
 * Pas de private joke.
 * Pas de sms.
-* Respecter l'esprit du texte.
+* Respectez l'esprit du texte.
 * Pas de faux-sens. *(prendre un mot pour un autre)*
 * Pas de barbarisme. *(écrire un mot qui n'existe pas dans la langue)*
 * Pas de solécisme. *(construire une syntaxe qui n'existe pas dans la langue)*
-* Pas de contresens. *(aboutir à une traduction contaire au sens initial de la phrase)*
+* Pas de contre sens. *(aboutir à une traduction contaire au sens initial de la phrase)*
  
 ## Anglo-français
 *Vu que nous jouons sur un serveur européen, il faut pouvoir se faire comprendre facilement. Si demain vous allez pvp et demandez à aller sur une ville que vous avez traduite en FR, les joueurs anglophones ne vont rien comprendre*
