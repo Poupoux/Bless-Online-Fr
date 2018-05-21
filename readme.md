@@ -1,5 +1,5 @@
 # Avant-Propos
-* Github communautaire afin de traduire le jeu Bless Online en français simplifié. 
+* Github communautaire afin de traduire le jeu Bless Online en français simplifié. test
 * Pour vous aider à traduire, n'hésitez pas à télécharger PoEdit : https://poedit.net/
 * Si vous avez des questions, venez sur le discord de Bless FR ! https://discord.gg/32vHsfT
 
